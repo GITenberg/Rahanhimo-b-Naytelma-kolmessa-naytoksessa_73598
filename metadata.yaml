@@ -1,11 +1,16 @@
 _repo: Rahanhimo-b-Naytelma-kolmessa-naytoksessa_73598
 _version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Corander, Gotthard
     gutenberg_agent_id: '57158'
     url: http://www.gutenberg.org/2009/agents/57158
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/73598#Rahanhimo-b-Naytelma-kolmessa-naytoksessa
 gutenberg_issued: '2024-05-17'
 gutenberg_type: Text
 identifiers:
